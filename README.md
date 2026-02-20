@@ -20,5 +20,5 @@ actionable insights that non-technical stakeholders can actually use.
 
 💼 Currently: Open to freelance projects and full-time opportunities
 
-📫 Reach me at: bimbooyeyele@gmail.com
+📫 Reach me at: bimbooyeyele91@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/bimbooyeyele/
