@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi I'm Bimbo 👋
 
-<!--
-**Bimbo-Danalyst/Bimbo-Danalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst with 3+ years of experience helping businesses 
+make smarter decisions through data. What sets me apart isn't just 
+knowing the tools; it's knowing the right questions to ask before 
+touching the data.
 
-Here are some ideas to get you started:
+I once saved a business a significant amount of money by doing 
+something simple; asking the right questions to uncover what they 
+truly needed before any solution was built. That kind of thinking 
+is the approach I bring to every project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've worked with cross-functional teams across finance, retail, 
+edutech, and HR; turning messy data into clear reports and 
+actionable insights that non-technical stakeholders can actually use.
+
+🛠️ Tools I work with: Excel | SQL | Power BI
+
+🌍 Industries: Finance | Retail | Edutech | HR
+
+💼 Currently: Open to freelance projects and full-time opportunities
+
+📫 Reach me at: bimbooyeyele@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/bimbooyeyele/
