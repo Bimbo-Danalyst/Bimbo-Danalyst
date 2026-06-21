@@ -1,26 +1,16 @@
 # Hi I'm Bimbo 👋
 
-I'm a Data Analyst with 3+ years of experience helping businesses 
-make smarter decisions through data. What sets me apart isn't just 
-knowing the tools; it's knowing the right questions to ask before 
-touching the data.
+data analyst with three years of hands-on analytical experience and seven years working within government, where I learned that decisions made without evidence cost more than the analysis that prevents them. I specialise in turning raw business data into clear, specific insights that decision makers can act on immediately.
 
-I once saved a business a significant amount of money by doing 
-something simple; asking the right questions to uncover what they 
-truly needed before any solution was built. That kind of thinking 
-is the approach I bring to every project.
-
-I've worked with cross-functional teams across finance, retail, 
-edutech, and HR; turning messy data into clear reports and 
-actionable insights that non-technical stakeholders can actually use.
+I've worked with cross-functional teams across finance, government, retail, edutech, and HR; turning messy data into clear reports and actionable insights that non-technical stakeholders can actually use.
 
 🛠️ Tools I work with: Excel | Googlesheet | SQL | Python | Power BI
-
-🌍 Industries: Finance | Retail | Edutech | HR
 
 💼 Currently: Open to freelance projects and full-time opportunities
 
 💼 Portfolio: https://bimbo-oyeyele.netlify.app/
+
 📫 Reach me at: bimbooyeyele91@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/bimbooyeyele/
 
