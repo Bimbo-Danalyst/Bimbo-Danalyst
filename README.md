@@ -14,11 +14,13 @@ I've worked with cross-functional teams across finance, retail,
 edutech, and HR; turning messy data into clear reports and 
 actionable insights that non-technical stakeholders can actually use.
 
-🛠️ Tools I work with: Excel | SQL | Power BI
+🛠️ Tools I work with: Excel | Googlesheet | SQL | Python | Power BI
 
 🌍 Industries: Finance | Retail | Edutech | HR
 
 💼 Currently: Open to freelance projects and full-time opportunities
 
+💼 Portfolio: https://bimbo-oyeyele.netlify.app/
 📫 Reach me at: bimbooyeyele91@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/bimbooyeyele/
+
